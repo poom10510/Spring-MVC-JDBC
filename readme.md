@@ -21,4 +21,7 @@
   - `/delete/{id}` : Delete student.
   - `/` : List all students in database.
 
+#### Connecting to database
+- You can change database name, username or password in `beans.xml`
+
 **Taweerat Chaiman 5710546259**
