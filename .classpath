@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/taweesoft/Downloads/spring jarfiles/org.springframework.web-3.1.3.release.jar"/>
+	<classpathentry kind="lib" path="/Users/taweesoft/Downloads/spring jarfiles/org.springframework.expression-3.1.0.release.jar"/>
+	<classpathentry kind="lib" path="/Users/taweesoft/Downloads/spring jarfiles/org.springframework.context.jar"/>
+	<classpathentry kind="lib" path="/Users/taweesoft/Downloads/spring jarfiles/org.springframework.beans.jar"/>
+	<classpathentry kind="lib" path="/Users/taweesoft/Downloads/spring jarfiles/org.springframework.core.jar"/>
+	<classpathentry kind="lib" path="/Users/taweesoft/Downloads/spring jarfiles/mysql-connector-java-5.1.23-bin.jar"/>
+	<classpathentry kind="lib" path="/Users/taweesoft/Downloads/spring jarfiles/spring-web.jar"/>
+	<classpathentry kind="lib" path="/Users/taweesoft/Downloads/spring jarfiles/org.springframework.asm.jar"/>
+	<classpathentry kind="lib" path="/Users/taweesoft/Downloads/spring jarfiles/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/taweesoft/Downloads/spring jarfiles/org.springframework.web.servlet-3.1.0.M2.jar"/>
+	<classpathentry kind="lib" path="/Users/taweesoft/Downloads/spring jarfiles/org.springframework.jdbc.jar"/>
+	<classpathentry kind="lib" path="/Users/taweesoft/Downloads/spring jarfiles/org.springframework.transaction.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
